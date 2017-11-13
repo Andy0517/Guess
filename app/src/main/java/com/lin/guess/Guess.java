@@ -30,7 +30,7 @@ public class Guess extends AppCompatActivity {
                     .setTitle("訊息")
                     .setMessage("恭喜答對!!!")
                     .setPositiveButton("了解",null)
-                   // .setNegativeButton("再玩一次",null)
+                    .setNegativeButton("再玩一次",null)
                     .show();
         }
     }
